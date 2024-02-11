@@ -1,9 +1,0 @@
-com\habit\habittrackerv2\controller\CreateActivityRequest.class
-com\habit\habittrackerv2\controller\CreateHabitRequest.class
-com\habit\habittrackerv2\model\Activity.class
-com\habit\habittrackerv2\repository\HabitRepository.class
-com\habit\habittrackerv2\model\Habit.class
-com\habit\habittrackerv2\repository\ActivityRepository.class
-com\habit\habittrackerv2\HabitTrackerV2Application.class
-com\habit\habittrackerv2\controller\HabitController.class
-com\habit\habittrackerv2\controller\ActivityConroller.class

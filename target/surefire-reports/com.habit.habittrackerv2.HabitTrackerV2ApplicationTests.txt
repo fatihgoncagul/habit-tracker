@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.habit.habittrackerv2.HabitTrackerV2ApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.524 s -- in com.habit.habittrackerv2.HabitTrackerV2ApplicationTests
