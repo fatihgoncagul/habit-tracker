@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - main
-      -
+
 env:
   REGISTRY: ghcr.io
   REPO_OWNER: ${{ github.repository_owner }}
@@ -36,5 +36,5 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
-          secrets: |
+          secrets:
             GITHUB_TOKEN=${{ secrets.GH_TOKEN }}

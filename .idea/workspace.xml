@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9f5adbc-3732-429a-beec-d281eeface10" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github/workflows/build.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/github/workflows/build.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +90,7 @@
       <workItem from="1707410452426" duration="624000" />
       <workItem from="1707472787823" duration="616000" />
       <workItem from="1707638043221" duration="7555000" />
-      <workItem from="1707654208783" duration="8660000" />
+      <workItem from="1707654208783" duration="9313000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore added">
       <created>1707664137896</created>
@@ -100,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707664137896</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="yaml file changed">
+      <created>1707668136230</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707668136230</updated>
+    </task>
+    <task id="LOCAL-00003" summary="yaml file changed">
+      <created>1707668295458</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707668295458</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +132,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore added" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore added" />
+    <MESSAGE value="yaml file changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="yaml file changed" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
