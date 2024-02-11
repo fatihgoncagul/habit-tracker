@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9f5adbc-3732-429a-beec-d281eeface10" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/github/workflows/build.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/github/workflows/build.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +91,7 @@
       <workItem from="1707410452426" duration="624000" />
       <workItem from="1707472787823" duration="616000" />
       <workItem from="1707638043221" duration="7555000" />
-      <workItem from="1707654208783" duration="9313000" />
+      <workItem from="1707654208783" duration="9682000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore added">
       <created>1707664137896</created>
@@ -113,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707668295458</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="yaml file changed">
+      <created>1707668782453</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707668782453</updated>
+    </task>
+    <task id="LOCAL-00005" summary="yaml file changed">
+      <created>1707668973838</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707668973838</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
